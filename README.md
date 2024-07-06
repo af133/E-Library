@@ -1,4 +1,4 @@
-E-Libray sebuah sistem perpustakaan berbasasi elektronik dan 
+E-Libray sebuah sistem perpustakaan berbasis elektronik dan 
 hanya bisa dijalankan di terminal vscode. Sistem ini memiliki berbagai fitur 
 dengan menggunakan logic pemrograman yaitu binary search dan selection sot.
 Fitur-fitur di E-Library:
