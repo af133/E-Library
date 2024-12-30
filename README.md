@@ -18,6 +18,7 @@ Python sebagai bahasa pemrograman utama.
 Algoritma:
 1. Binary Search untuk pencarian data yang cepat.
 2. Selection Sort untuk pengurutan data yang efisien.
+   
 # 📦 Cara Menggunakan
 1. Clone repositori ini:
    bash
@@ -29,5 +30,8 @@ Algoritma:
    Salin kode
    python main.py
 3. Ikuti instruksi pada layar untuk mengakses fitur-fitur sistem.
+4. Kode pemrograman berisi kode python dan Data berisi data.csv
+5. Sesuaikan semua path 
+
 # 🎯 Tujuan
 E-Library dirancang untuk mempermudah pengelolaan perpustakaan digital, cocok untuk pustakawan, siswa, atau siapa saja yang ingin mengelola koleksi buku dengan sistem yang sederhana namun canggih.
